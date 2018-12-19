@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://slack-imgs.com/?c=1&url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fpeople-network-map-red-data-connections-clip-available-multiple-colors-loops-seamlessly-74036836.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  background-position: center;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: red;
+}
+nav>ul>li>a {
+  padding: 18px;
+  margin-right: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  color: rgba(255, 255, 255, 0.833);
+}
+nav {
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 10px 0;
+   margin-right: 0%;
+}
+table, th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+img {
+  display: flow-root;
+}
