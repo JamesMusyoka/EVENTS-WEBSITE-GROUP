@@ -34,15 +34,15 @@ This is a website that connects a family and to know the events coming up and up
   * JAVASCRIPT
 
   ### Support and contact details
-   * E-mail: jamesmu475@gmail.com
-             oscarngoloman@yahoo.com
-             oginga001ronney@gmail.com
+   * E-mail: jamesmu475@gmail.com, 
+             oscarngoloman@yahoo.com, 
+             oginga001ronney@gmail.com, 
 
 
 
 
 
-   * Phone Numbers: 0707337751-Oscar
-                    0704729445-James
-                    0705335873-Ronny
+   * Phone Numbers: 0707337751-Oscar,
+                    0704729445-James,
+                    0705335873-Ronny,
 
