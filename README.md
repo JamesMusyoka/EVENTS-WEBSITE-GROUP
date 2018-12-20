@@ -19,7 +19,7 @@ This is a website that connects a family and to know the events coming up and up
 
  * Install the Roots Connect by cloning this repository.
  * You need a smartphone,laptop,desktop or any screen accessibleto internet.
- * Open from any linient browser. For example you can use the following link to access our website:https://github.com/JamesMusyoka/JAVASCRIPT-QUIZ-BOARD
+ * Open from any linient browser. For example you can use the following link to access our website:https://github.com/JamesMhttps://github.com/JamesMusyoka/EVENTS-WEBSITE-GROUP/blob/master/README.md
 
  ## BDD
 
