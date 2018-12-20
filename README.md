@@ -1,4 +1,4 @@
-# LINEAGE TRACER/ROOTS CONNECT
+# ROOTS CONNECT
 
 This is a website that connects a family and to know the events coming up and updates of the family.
 
