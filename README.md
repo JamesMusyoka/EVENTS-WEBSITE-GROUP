@@ -2,6 +2,7 @@
 
 This is a website that connects a family and to know the events coming up and updates of the family.
 
+ ## By {Swanapole, Oscar, Ronny, Sheryl, James}
  ## Specification
 
  * If it's your firsttime to visit the website you have to sign up so that you can be a member of the group.
